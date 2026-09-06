@@ -1,6 +1,6 @@
 # FunnelIQ — E-Commerce Funnel, Retention & A/B Test Analytics
 
-A beginner-friendly, portfolio-ready analytics project that mirrors an
+A portfolio-ready analytics project that mirrors an
 entry-level **Product Analyst** role: turn raw event data into funnel,
 retention, and experiment insights, then present them in a dashboard.
 
