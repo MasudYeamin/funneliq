@@ -1,0 +1,2 @@
+control_customers,control_purchasers,control_conversion_%,variant_customers,variant_purchasers,variant_conversion_%,lift_%,z_stat,p_value,significant_at_0.05
+2008,734,36.55,1992,864,43.37,18.66,4.403,1e-05,True

@@ -1,0 +1,5 @@
+funnel_step,customers_reached,conversion_from_prev_%,conversion_from_start_%
+view,4000,,100.0
+add_to_cart,3031,75.8,75.8
+checkout,2125,70.1,53.1
+purchase,1598,75.2,40.0

@@ -1,0 +1,200 @@
+{
+  "revenue_by_category": [
+    {
+      "category": "Sports",
+      "revenue": 607525.71,
+      "orders": 356,
+      "aov": 1706.53
+    },
+    {
+      "category": "Beauty",
+      "revenue": 577595.67,
+      "orders": 341,
+      "aov": 1693.83
+    },
+    {
+      "category": "Electronics",
+      "revenue": 576736.58,
+      "orders": 355,
+      "aov": 1624.61
+    },
+    {
+      "category": "Home & Kitchen",
+      "revenue": 569270.71,
+      "orders": 341,
+      "aov": 1669.42
+    },
+    {
+      "category": "Books",
+      "revenue": 526712.28,
+      "orders": 321,
+      "aov": 1640.85
+    },
+    {
+      "category": "Fashion",
+      "revenue": 520113.93,
+      "orders": 297,
+      "aov": 1751.23
+    }
+  ],
+  "monthly_revenue": [
+    {
+      "month": "2025-03",
+      "revenue": 261228.78,
+      "orders": 161
+    },
+    {
+      "month": "2025-04",
+      "revenue": 473477.74,
+      "orders": 285
+    },
+    {
+      "month": "2025-05",
+      "revenue": 632294.99,
+      "orders": 373
+    },
+    {
+      "month": "2025-06",
+      "revenue": 631716.4,
+      "orders": 386
+    },
+    {
+      "month": "2025-07",
+      "revenue": 741761.36,
+      "orders": 433
+    },
+    {
+      "month": "2025-08",
+      "revenue": 512463.45,
+      "orders": 298
+    },
+    {
+      "month": "2025-09",
+      "revenue": 125012.16,
+      "orders": 75
+    }
+  ],
+  "signups_by_channel": [
+    {
+      "channel": "organic_search",
+      "count": 1371
+    },
+    {
+      "channel": "paid_social",
+      "count": 1025
+    },
+    {
+      "channel": "email",
+      "count": 642
+    },
+    {
+      "channel": "direct",
+      "count": 556
+    },
+    {
+      "channel": "referral",
+      "count": 406
+    }
+  ],
+  "signups_by_city": [
+    {
+      "city": "Chennai",
+      "count": 527
+    },
+    {
+      "city": "Pune",
+      "count": 525
+    },
+    {
+      "city": "Bengaluru",
+      "count": 511
+    },
+    {
+      "city": "Delhi",
+      "count": 502
+    },
+    {
+      "city": "Kolkata",
+      "count": 496
+    },
+    {
+      "city": "Hyderabad",
+      "count": 488
+    },
+    {
+      "city": "Ahmedabad",
+      "count": 482
+    },
+    {
+      "city": "Mumbai",
+      "count": 469
+    }
+  ],
+  "monthly_signups": [
+    {
+      "month": "2025-03",
+      "count": 699
+    },
+    {
+      "month": "2025-04",
+      "count": 665
+    },
+    {
+      "month": "2025-05",
+      "count": 692
+    },
+    {
+      "month": "2025-06",
+      "count": 666
+    },
+    {
+      "month": "2025-07",
+      "count": 684
+    },
+    {
+      "month": "2025-08",
+      "count": 594
+    }
+  ],
+  "channel_stats": [
+    {
+      "channel": "direct",
+      "signups": 556,
+      "purchasers": 210,
+      "conversion_pct": 37.8,
+      "revenue": 457978.26
+    },
+    {
+      "channel": "email",
+      "signups": 642,
+      "purchasers": 258,
+      "conversion_pct": 40.2,
+      "revenue": 537994.33
+    },
+    {
+      "channel": "organic_search",
+      "signups": 1371,
+      "purchasers": 563,
+      "conversion_pct": 41.1,
+      "revenue": 1153699.15
+    },
+    {
+      "channel": "paid_social",
+      "signups": 1025,
+      "purchasers": 400,
+      "conversion_pct": 39.0,
+      "revenue": 856306.36
+    },
+    {
+      "channel": "referral",
+      "signups": 406,
+      "purchasers": 167,
+      "conversion_pct": 41.1,
+      "revenue": 371976.78
+    }
+  ],
+  "aov_by_variant": {
+    "control": 1673.25,
+    "variant": 1685.19
+  }
+}

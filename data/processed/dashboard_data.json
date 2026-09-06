@@ -1,0 +1,48 @@
+{
+  "order_value_hist": [
+    {
+      "range": "0-500",
+      "count": 114
+    },
+    {
+      "range": "500-1000",
+      "count": 407
+    },
+    {
+      "range": "1000-1500",
+      "count": 504
+    },
+    {
+      "range": "1500-2000",
+      "count": 373
+    },
+    {
+      "range": "2000-2500",
+      "count": 268
+    },
+    {
+      "range": "2500-3000",
+      "count": 157
+    },
+    {
+      "range": "3000-3500",
+      "count": 82
+    },
+    {
+      "range": "3500-4000",
+      "count": 44
+    },
+    {
+      "range": "4000-4500",
+      "count": 30
+    },
+    {
+      "range": "4500-5000",
+      "count": 18
+    }
+  ],
+  "avg_order_value": 1679.74,
+  "median_order_value": 1480.33,
+  "total_revenue": 3377954.88,
+  "total_orders": 2011
+}

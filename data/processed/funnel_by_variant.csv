@@ -1,0 +1,9 @@
+checkout_variant,funnel_step,customers_reached
+control,view,2008
+control,add_to_cart,1519
+control,checkout,1055
+control,purchase,734
+variant,view,1992
+variant,add_to_cart,1512
+variant,checkout,1070
+variant,purchase,864
